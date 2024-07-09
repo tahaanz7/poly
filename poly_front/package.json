@@ -1,0 +1,29 @@
+{
+  "name": "poly_front",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@primevue/themes": "^4.0.0",
+    "@vueuse/motion": "^2.2.3",
+    "animate.css": "^4.1.1",
+    "axios": "^1.7.2",
+    "primevue": "^4.0.0",
+    "vue": "^3.4.29",
+    "vue-carousel": "^0.18.0",
+    "vue-router": "^4.0.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "autoprefixer": "^10.4.19",
+    "daisyui": "^4.12.8",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.1"
+  }
+}
